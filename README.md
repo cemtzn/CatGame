@@ -7,7 +7,7 @@ This project is based on OOP. Since the project is image-based, the stdlib libra
 The mapping of the maze in the project is a square pattern formed by combining the numbers 0-1-2-3. The numbers 0 represent the walking area, the area 1 the map walls, the area 2 the water sources, and the number 3 the foods in the areas. 
 The cat that wants to find food scans the 4 squares around it. If there is food in the area it is combing, it will head towards the food, otherwise, it should move towards the directions where there is no wall or water. 
 The cat eats all the food without hitting the walls or touching the water. 
-The program ends when he has eaten all the baits. The number of each move made by the cat is stored and printed out until the end of the program.
+The program ends when he has eaten all the foods. The number of each move made by the cat is stored and printed out until the end of the program.
 
 *How does the code works* 
 
