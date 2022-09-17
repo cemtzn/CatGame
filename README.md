@@ -28,4 +28,4 @@ A boolean type constant has been assigned to avoid confusion between empty boxes
 
 *Note*
 
-*Make sure that Stdlib is configured to the IDE.In this project, Eclipse IDE was used to fulfill the task
+*Make sure that Stdlib is configured to the IDE. In this project, Eclipse IDE was used to fulfill the task
