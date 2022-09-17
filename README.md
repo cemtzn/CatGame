@@ -1,5 +1,5 @@
 # CatGame
-*An OOP an Stdlib based game as a school project*
+*An OOP and Stdlib based game as a school project*
 
 *Description of the project*
 
